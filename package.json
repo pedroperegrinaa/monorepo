@@ -1,0 +1,14 @@
+{
+  "name": "rocketseat-monorepo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "private": true,
+  "workspaces": {
+    "packages": [
+      "packages/*"
+    ]
+  },
+  "repository": "https://github.com/pedroperegrinaa/rocketseat-monorepo.git",
+  "author": "pedroperegrinaa <57403682+pedroperegrinaa@users.noreply.github.com>",
+  "license": "MIT"
+}
